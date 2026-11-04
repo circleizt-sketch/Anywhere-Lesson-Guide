@@ -251,5 +251,5 @@ satisfaction:''
 ### 문의처
 
 - 어디나콜센터: [02-570-4690](tel:025704690)
-- 아임히어워크 문의사항
 - e-mail: [sdfdigitaledu@gmail.com](mailto:sdfdigitaledu@gmail.com)
+- 아임히어워크 문의사항
