@@ -8,7 +8,7 @@
 
 **GitHub 기본 주소를 사용하는 경우의 접속 주소:**
 
-### https://circleizt-sketch.github.io/Anywhere-Lesson-Plan/
+### https://circleizt-sketch.github.io/Anywhere-Lesson-Guide/
 
 위 주소를 누르면 수업 가이드가 열리는지 확인할 수 있습니다. 주소는 대소문자까지 그대로 사용하세요.
 
